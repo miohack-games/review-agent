@@ -1,0 +1,6 @@
+# OS / エディタ生成物
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
